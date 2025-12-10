@@ -10,5 +10,7 @@ Maximize your fishing efficiency with our automated fishing bot.
 * Lightning Fast Performance
 * Updates & Improvements
 
+![Albion Fish Bot](https://github.com/DawoodKMasood/AlbionOnlineFishBot/blob/main/Animation1.gif "Albion Fish Bot")
+
 **Website:** https://vmpwn.com
 **Discord:** https://discord.gg/8m6gUHX4Vb
